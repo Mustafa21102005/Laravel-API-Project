@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'name' => 'Name',
+    'email' => 'Email',
+    'phone' => 'Phone',
+    'password' => 'Password',
+    'password_confirmation' => 'Password Confirmation',
+    'logout_msg' => 'You have logged out successfully.',
+    'login_msg' => 'You have logged in successfully.',
+    'register_msg' => 'You have registered successfully.',
+    'success' => 'Success',
+    'activate_account' => 'Activate your account (:type)',
+    'email_code_msg' => 'Welcome :name! You have successfully signed up. Please use this code :code to activate your account.',
+    'email_code_sent' => 'Email code sent successfully.',
+    'email_activated_successfuly' => 'Email activated successfully.',
+    'email_activation_failed' => 'Email activation failed.',
+    'phone_code_sent' => 'Phone code sent successfully.',
+    'phone_code_msg' => 'Welcome :name! You have successfully signed up. Please use this code :code to activate your account.',
+    'phone_activated_successfuly' => 'Phone activated successfully.',
+    'phone_activation_failed' => 'Phone activation failed.',
+    'account_not_activated' => 'Your account is not activated yet.',
+    'email_already_activated' => 'Email already activated.',
+    'phone_already_activated' => 'Phone already activated.',
+];

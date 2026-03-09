@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'name' => 'اسم المستخدم',
+    'email' => 'البريد الالكتروني',
+    'phone' => 'رقم الهاتف',
+    'password' => 'كلمة المرور',
+    'password_confirmation' => 'تاكيد كلمة المرور',
+    'logout_msg' => 'تم تسجيل الخروج بنجاح',
+    'login_msg' => 'تم تسجيل الدخول بنجاح',
+    'register_msg' => 'تم التسجيل بنجاح',
+    'success' => 'نجاح',
+    'activate_account' => 'فعّل حسابك المستخدم (:type)',
+    'email_code_msg' => 'مرحباً :name! تم التسجيل بنجاح. يرجى استخدام الكود :code لتفعيل حسابك',
+    'email_code_sent' => 'تم ارسال كود التفعيل على بريدك الالكتروني بنجاح!',
+    'email_activated_successfuly' => 'تم تفعيل البريد الالكتروني بنجاح',
+    'email_activation_failed' => 'فشل تفعيل البريد الالكتروني',
+    'phone_code_sent' => 'تم ارسال كود التفعيل على رقم الهاتف بنجاح!',
+    'phone_code_msg' => 'مرحباً :name! تم التسجيل بنجاح. يرجى استخدام الكود :code لتفعيل حسابك',
+    'phone_activated_successfuly' => 'تم تفعيل رقم الهاتف بنجاح',
+    'phone_activation_failed' => 'فشل تفعيل رقم الهاتف',
+    'account_not_activated' => 'حسابك لم يتم تفعيله بعد',
+    'email_already_activated' => 'البريد الالكتروني مفعل بالفعل',
+    'phone_already_activated' => 'رقم الهاتف مفعل بالفعل',
+];
